@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>кубик.gif</file>
+        <file>icon.ico</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>звук.mp3</file>
+    </qresource>
+</RCC>
